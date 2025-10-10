@@ -24,6 +24,9 @@
     <ClCompile Include="FileName.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SharedPtr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">

@@ -134,6 +134,7 @@
     <ClCompile Include="FileName.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MyString.cpp" />
+    <ClCompile Include="SharedPtr.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />
