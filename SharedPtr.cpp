@@ -7,7 +7,7 @@ class SharedPtr {
 private:
 	T* ptr;
 	size_t* count;
-
+	
 	void release() {
 		if (count) {
 			if (--(*count) == 0) {
